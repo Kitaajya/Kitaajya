@@ -1,5 +1,12 @@
 <div align="center">
 
+**🌐 语言 / Language / 言語：**
+[中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
+
+</div>
+
+<div align="center">
+
 # Hi there, I'm Conan Doyle，aka Kitaajya 👋
 
 **来自中国地质大学长城学院的学子 · 小蓝书创始人之一 · 目标是重构操作系统**
