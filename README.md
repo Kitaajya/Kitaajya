@@ -4,7 +4,7 @@
 
 **来自中国地质大学长城学院的学子 · 小蓝书创始人之一 · 目标是重构操作系统**
 
-本名：亚当斯·柯南·道尔　|　外号：忧郁的神医
+本名：亚当斯·柯南·道尔　|　外号：忧郁的神医、唐山名医
 
 [![Website](https://img.shields.io/badge/Website-Kitaajya-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kitaajya)
 [![Email](https://img.shields.io/badge/Email-conandoyle1@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:conandoyle1@qq.com)
