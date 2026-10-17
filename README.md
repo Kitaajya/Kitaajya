@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Conan Doyle, aka Kitaajya 👋
-# 嗨！我是柯南·道尔，又日文名Kitaajya👋
+# 嗨！我是柯南·道尔，又名Kitaajya（日文）👋
 
 
 **🌐 语言 / Language / 言語：**
