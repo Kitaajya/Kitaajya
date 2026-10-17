@@ -151,7 +151,7 @@ Real name: Adams Conan Doyle　|　Nicknames: The Melancholic Physician, The Tan
 
 <a id="日本語"></a>
 
-## 🇯🇵 日本語
+## 日本語
 
 <div align="center">
 
