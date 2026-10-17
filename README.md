@@ -33,7 +33,7 @@
 
 ## 📊 GitHub 统计
 
-<div align="center">
+<div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kitaajya&show_icons=true&theme=dark&hide_border=true&locale=cn)
 
