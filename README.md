@@ -7,7 +7,9 @@
 [中文](#中文) · [English](#english) · [日本語](#日本語)
 
 </div>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kitaajya/Kitaajya/main/assets/tank-game.gif" alt="Pixel Tank Game Demo" width="600">
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kitaajya/Kitaajya/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kitaajya/Kitaajya/output/github-snake.svg">
