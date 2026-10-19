@@ -13,6 +13,8 @@
 
 <a id="中文"></a>
 
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kitaajya/Kitaajya/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+
 ## 🇨🇳 中文
 
 <div align="center">
