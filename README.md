@@ -3,23 +3,20 @@
 # Hi there, I'm Conan Doyle, aka Kitaajya 👋
 # 嗨！我是柯南·道尔，又名Kitaajya（日文）👋
 
-
 **🌐 语言 / Language / 言語：**
 [中文](#中文) · [English](#english) · [日本語](#日本語)
 
 </div>
-
----
-
-<a id="中文"></a>
-
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kitaajya/Kitaajya/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kitaajya/Kitaajya/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kitaajya/Kitaajya/output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kitaajya/Kitaajya/output/github-snake.svg">
 </picture>
+
+---
+
+<a id="中文"></a>
 
 ## 🇨🇳 中文
 
