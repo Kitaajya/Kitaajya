@@ -67,14 +67,6 @@
 
 </div>
 
-### 🎮 像素坦克游戏展示
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kitaajya/Kitaajya/main/assets/tank-game.gif" alt="Pixel Tank Game Demo" width="600">
-</div>
-
-<p align="center">一个用 HTML5 Canvas 实现的像素风坦克游戏，支持移动与开火。</p>
-
 ### 📌 精选项目
 
 <table>
