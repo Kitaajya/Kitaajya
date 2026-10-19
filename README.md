@@ -7,7 +7,6 @@
 [中文](#中文) · [English](#english) · [日本語](#日本語)
 
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kitaajya/Kitaajya/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kitaajya/Kitaajya/output/github-snake.svg">
@@ -67,6 +66,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+
+### 🎮 像素坦克游戏展示
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kitaajya/Kitaajya/main/assets/tank-game.gif" alt="Pixel Tank Game Demo" width="600">
+</div>
+
+<p align="center">一个用 HTML5 Canvas 实现的像素风坦克游戏，支持移动与开火。</p>
 
 ### 📌 精选项目
 
