@@ -1,9 +1,4 @@
-<div>
 > 注：本主页由DeepSeek生成
-
-</div>
-
-<div align="center">
 
 <code>
 public class Kitaajya{
@@ -12,6 +7,9 @@ public class Kitaajya{
     }
 }
 </code>
+<div align="center">
+
+
 
 # Hi there, I'm Conan Doyle, aka Kitaajya 👋
 # 嗨！我是柯南·道尔，又名Kitaajya👋
