@@ -1,3 +1,8 @@
+<div>
+> 注：本主页由DeepSeek生成
+
+</div>
+
 <div align="center">
 
 # Hi there, I'm Conan Doyle, aka Kitaajya 👋
