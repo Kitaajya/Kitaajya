@@ -33,6 +33,10 @@ public class Kitaajya {
 
 - 🔭 **正在做**：YouTube 大型网站模拟
 - 📫 **联系我**：conandoyle1@qq.com
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kitaajya&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kitaajya&theme=github_dark" />
+</div>
 
 ### 🌱 技术栈
 
