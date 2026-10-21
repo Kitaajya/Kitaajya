@@ -12,7 +12,7 @@ public class Kitaajya {
 
 ### 嗨！我是柯南·道尔，又名 Kitaajya 👋
 
-**🌐 语言 / Language / 言語：** [中文](#中文) · [English](#english) · [日本語](#日本語)
+**🌐 语言 / Language / 言語：** [中文](#中文) · [English](#english) · [日本語](#日本語) · [⬆ 回到顶部](#hi-there-im-conan-doyle-aka-kitaajya-)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Kitaajya/Kitaajya/output/github-snake.svg)
 
@@ -33,10 +33,6 @@ public class Kitaajya {
 
 - 🔭 **正在做**：YouTube 大型网站模拟
 - 📫 **联系我**：conandoyle1@qq.com
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kitaajya&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kitaajya&theme=github_dark" />
-</div>
 
 ### 🌱 技术栈
 
@@ -52,6 +48,11 @@ public class Kitaajya {
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kitaajya&show_icons=true&theme=dark&hide_border=true&locale=cn)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitaajya&layout=compact&theme=dark&hide_border=true&locale=cn)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kitaajya&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kitaajya&theme=github_dark" />
+</div>
 
 ### 🛠️ 常用工具与技术
 
@@ -166,4 +167,4 @@ Real name: Adams Conan Doyle　|　Nicknames: The Melancholic Physician, The Tan
 
 ---
 
-⭐️ From [Kitaajya](https://github.com/Kitaajya)
+⭐️ From [Kitaajya](https://github.com/Kitaajya) · [⬆ Back to Top](#hi-there-im-conan-doyle-aka-kitaajya-)
