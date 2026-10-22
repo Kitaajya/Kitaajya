@@ -1,9 +1,34 @@
 > 注：本主页由 DeepSeek 生成
 
 ```java
+class ConanDolye{
+    public static void main(String[] argc){
+        System.out.println("Hello Kitaajya!,I am a doctor named Conan Doyle!");
+        Kitaajya.introduct();
+    }
+}
 public class Kitaajya {
-    public static void main(String[] args) {
-        System.out.println("Hello Kitaajya! I'm Conan Doyle!");
+    interface Developer {
+        String getName();
+        String getAlias();
+        String[] getTechStack();
+        String getCurrentProject();
+    }
+
+    public static void introduct() {
+        Developer me = new Developer() {
+            public String getName() { return "柯南·道尔"; }
+            public String getAlias() { return "Kitaajya"; }
+            public String[] getTechStack() { return new String[]{"Java 17", "Spring Boot", "Spring AI", "MySQL"}; }
+            public String getCurrentProject() { return "YouTube_Imitate（深度接入 AI）"; }
+        };
+
+        System.out.println("=====================================");
+        System.out.printf("你好！我是 %s（又名 %s）%n", me.getName(), me.getAlias());
+        System.out.printf("正在做: %s%n", me.getCurrentProject());
+        System.out.printf("技术栈: %s%n", String.join(" | ", me.getTechStack()));
+        System.out.println("目标: 重构操作系统。");
+        System.out.println("=====================================");
     }
 }
 ```
