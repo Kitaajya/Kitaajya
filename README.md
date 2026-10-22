@@ -8,6 +8,9 @@ public class Kitaajya {
 }
 ```
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitaajya&theme=github_dark" width="100%" />
+</div>
 # Hi there, I'm Conan Doyle, aka Kitaajya 👋
 
 ### 嗨！我是柯南·道尔，又名 Kitaajya 👋
