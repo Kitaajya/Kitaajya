@@ -30,7 +30,7 @@ public class Kitaajya {
 
 ## 🇨🇳 中文
 
-**来自中国地质大学长城学院的学子 · 小蓝书创始人之一 · 目标是重构操作系统**
+**来自中国地质大学长城学院的学子 · 目标是重构操作系统**
 
 本名：亚当斯·柯南·道尔　|　外号：忧郁的神医、唐山名医
 
@@ -99,7 +99,7 @@ public class Kitaajya {
 
 ## 🇬🇧 English
 
-**Student at China University of Geosciences Great Wall College · Co-founder of Little Blue Book · On a mission to rebuild an operating system**
+**Student at China University of Geosciences Great Wall College · On a mission to rebuild an operating system**
 
 Real name: Adams Conan Doyle　|　Nicknames: The Melancholic Physician, The Tangshan Doctor
 
@@ -153,7 +153,7 @@ Real name: Adams Conan Doyle　|　Nicknames: The Melancholic Physician, The Tan
 
 ## 日本語
 
-**中国地質大学長城学院の学生 · 小藍書（Little Blue Book）共同創業者 · オペレーティングシステムの再構築を目指しています**
+**中国地質大学長城学院の学生 · オペレーティングシステムの再構築を目指しています**
 
 本名：アダムス・コナン・ドイル　|　愛称：憂鬱な神医、唐山の名医
 
