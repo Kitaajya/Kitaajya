@@ -8,14 +8,13 @@ public class Kitaajya {
 }
 ```
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitaajya&theme=github_dark" width="100%" />
-</div>
 # Hi there, I'm Conan Doyle, aka Kitaajya 👋
 
 ### 嗨！我是柯南·道尔，又名 Kitaajya 👋
 
 **🌐 语言 / Language / 言語：** [中文](#中文) · [English](#english) · [日本語](#日本語) · [⬆ 回到顶部](#hi-there-im-conan-doyle-aka-kitaajya-)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kitaajya&theme=github_dark)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Kitaajya/Kitaajya/output/github-snake.svg)
 
@@ -52,10 +51,9 @@ public class Kitaajya {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitaajya&layout=compact&theme=dark&hide_border=true&locale=cn)
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kitaajya&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kitaajya&theme=github_dark" />
-</div>
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kitaajya&theme=github_dark)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kitaajya&theme=github_dark)
 
 ### 🛠️ 常用工具与技术
 
@@ -68,9 +66,8 @@ public class Kitaajya {
 
 ### 📌 精选项目
 
-| 🎬 [Bilibili_1st](https://github.com/Kitaajya/Bilibili_1st) | ▶️ [Youtube_Imitate](https://github.com/Kitaajya/Youtube_Imitate) |
-| :--- | :--- |
-| 模拟 B 站的项目，练习前后端整合与视频站点业务逻辑。 | 模拟油管的项目，聚焦大型网站的结构与功能复刻。 |
+- 🎬 **[Bilibili_1st](https://github.com/Kitaajya/Bilibili_1st)**：模拟 B 站的项目，练习前后端整合与视频站点业务逻辑。
+- ▶️ **[Youtube_Imitate](https://github.com/Kitaajya/Youtube_Imitate)**：模拟油管的项目，聚焦大型网站的结构与功能复刻。
 
 ---
 
@@ -116,9 +113,8 @@ Real name: Adams Conan Doyle　|　Nicknames: The Melancholic Physician, The Tan
 
 ### 📌 Featured Projects
 
-| 🎬 [Bilibili_1st](https://github.com/Kitaajya/Bilibili_1st) | ▶️ [Youtube_Imitate](https://github.com/Kitaajya/Youtube_Imitate) |
-| :--- | :--- |
-| A Bilibili-inspired project, practicing full-stack integration and video-site business logic. | A YouTube-inspired project, focusing on replicating the structure and features of large-scale websites. |
+- 🎬 **[Bilibili_1st](https://github.com/Kitaajya/Bilibili_1st)**: A Bilibili-inspired project, practicing full-stack integration and video-site business logic.
+- ▶️ **[Youtube_Imitate](https://github.com/Kitaajya/Youtube_Imitate)**: A YouTube-inspired project, focusing on replicating the structure and features of large-scale websites.
 
 ---
 
@@ -164,9 +160,8 @@ Real name: Adams Conan Doyle　|　Nicknames: The Melancholic Physician, The Tan
 
 ### 📌 注目プロジェクト
 
-| 🎬 [Bilibili_1st](https://github.com/Kitaajya/Bilibili_1st) | ▶️ [Youtube_Imitate](https://github.com/Kitaajya/Youtube_Imitate) |
-| :--- | :--- |
-| Bilibili を模したプロジェクト。フロントエンドとバックエンドの統合、動画サイトの業務ロジックを練習しています。 | YouTube を模したプロジェクト。大規模サイトの構造と機能の再現に焦点を当てています。 |
+- 🎬 **[Bilibili_1st](https://github.com/Kitaajya/Bilibili_1st)**：Bilibili を模したプロジェクト。フロントエンドとバックエンドの統合、動画サイトの業務ロジックを練習しています。
+- ▶️ **[Youtube_Imitate](https://github.com/Kitaajya/Youtube_Imitate)**：YouTube を模したプロジェクト。大規模サイトの構造と機能の再現に焦点を当てています。
 
 ---
 
