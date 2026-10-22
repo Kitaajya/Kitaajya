@@ -2,7 +2,7 @@
 ```java
 class ConanDolye{
     public static void main(String[] argc){
-        System.out.println("Hello Kitaajya!,I am a doctor named Conan Doyle!");
+        System.out.println("Hello Kitaajya! I am a doctor named Conan Doyle!");
         Kitaajya.introduct();
     }
 }
