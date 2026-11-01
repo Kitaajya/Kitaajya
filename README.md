@@ -26,7 +26,6 @@ public class Kitaajya {
         System.out.printf("你好！我是 %s（又名 %s）%n", me.getName(), me.getAlias());
         System.out.printf("正在做: %s%n", me.getCurrentProject());
         System.out.printf("技术栈: %s%n", String.join(" | ", me.getTechStack()));
-        System.out.println("目标: 重构操作系统。");
         System.out.println("=====================================");
     }
 }
