@@ -16,16 +16,16 @@ public class Kitaajya {
 
     public static void introduct() {
         Developer me = new Developer() {
-            public String getName() { return "柯南·道尔"; }
+            public String getName() { return "Conan Doyle"; }
             public String getAlias() { return "Kitaajya"; }
             public String[] getTechStack() { return new String[]{"Java 17", "Spring Boot", "Spring AI", "MySQL"}; }
-            public String getCurrentProject() { return "YouTube_Imitate（深度接入 AI）"; }
+            public String getCurrentProject() { return "YouTube_Imitate（Deep connect AI）"; }
         };
 
         System.out.println("=====================================");
-        System.out.printf("你好！我是 %s（又名 %s）%n", me.getName(), me.getAlias());
-        System.out.printf("正在做: %s%n", me.getCurrentProject());
-        System.out.printf("技术栈: %s%n", String.join(" | ", me.getTechStack()));
+        System.out.printf("Hello! My name's %s（aka %s）%n", me.getName(), me.getAlias());
+        System.out.printf("doing: %s%n", me.getCurrentProject());
+        System.out.printf("tech stack: %s%n", String.join(" | ", me.getTechStack()));
         System.out.println("=====================================");
     }
 }
