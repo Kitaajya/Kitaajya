@@ -30,6 +30,8 @@ public class Kitaajya {
     }
 }
 ```
+![Uploading 11月2日 (1).gif…]()
+
 
 <div align="center">
   <picture>
