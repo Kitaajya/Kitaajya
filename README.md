@@ -30,7 +30,7 @@ public class Kitaajya {
     }
 }
 ```
-![Uploading 11月2日 (1).gif…]()
+<img width="462" height="240" alt="11月2日 (1)" src="https://github.com/user-attachments/assets/ab04a1ab-f466-47ae-9c19-a9e64da9f52e" />
 
 
 <div align="center">
